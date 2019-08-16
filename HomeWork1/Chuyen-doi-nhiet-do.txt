@@ -1,0 +1,5 @@
+var DegreeC = 35;
+function ConvertDegreeCtoF ( number ){
+	return (number *1.8) + 32;
+}
+ConvertDegreeCtoF(DegreeC);
